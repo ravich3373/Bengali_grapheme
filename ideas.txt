@@ -1,0 +1,7 @@
+download bengali fonts and un supervised learning on fonts, to get the idea of shape of bengali leters.
+
+image to image neural network, input is organic handwritten images, output is images from the font.
+
+try different fonts
+
+-------> in images the bg is white and letters are dark, flip them??
